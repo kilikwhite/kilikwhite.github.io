@@ -31,15 +31,15 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Necessary Testing](/pdf/Data_Structures_Ethics_Paper_edit.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class: Data Structure Analysis CSCI 315-01**  
+-   **Grade: A**
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Agreeance with ACM's Codes](/pdf/Ethic_1(1).pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: Systems Analysis & Software Design CSCI 495-40** 
+-   **Grade: A**
 
 ### [Paper 3 Title](/pdf/sample_presentation.pdf)
 
