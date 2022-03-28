@@ -51,10 +51,11 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Equifax Data Breach](/pdf/Scripting Security Presentation.pdf)
 
-- **Class:** 
-- **Grade:**
+- [**Video link**](https://youtu.be/qor4OVW8Tzw)
+- **Class: Survey of Scripting Languages CSCI 301-40** 
+- **Grade: A**
 
 
 ### [Presentation 2 Title](/pdf/sample_presentation.pdf)
