@@ -53,7 +53,6 @@ Presentations
 
 ### [Equifax Data Breach](/pdf/Scripting_Security_Presentation.pdf)
 
-- [**Video link**](https://youtu.be/qor4OVW8Tzw)
 - **Class: Survey of Scripting Languages CSCI 301-40** 
 - **Grade: A**
 
