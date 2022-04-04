@@ -57,10 +57,10 @@ Presentations
 - **Grade: A**
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [Solarwinds Cyberattack](/pdf/Solarwinds_Presentation.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class: Cyber Defense CSCI 352** 
+- **Grade: TBA**
 
 ---
 
