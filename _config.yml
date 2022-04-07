@@ -1,0 +1,22 @@
+<<<<<<< HEAD
+=======
+# Site settings
+# These are used to personalize your new site.
+title: Kilik White # your name here
+logo: "/images/Me.jpg" # your photo (or logo) here
+description: > # your text below (remove <br /> elements if you don't need line breaks)
+  CSCI 496: Senior Portfolio<br />
+  In partial fulfillment of the requirements for the degree of
+  Bachelor of Science in Computer-Science (class of 2023)
+  <br /><br />
+  <a href="https://docs.google.com/document/d/1Oeaiyi9zXPHT796aZDARO8bW57XMVQ2UPFCJCqftPHI/edit?usp=sharing">My Resume</a>
+  <br /><br />
+  <a href="https://csuniv.joinhandshake.com/stu/users/25814238">View My Charleston Southern Handshake Profile</a>
+repository: "csci-csu/csci-portfolio"
+github_username:  kilikwhite # update with your username
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
+# Build setting
+theme: jekyll-theme-minimal
+
+>>>>>>> 265ce568a90c185acf0a2e6b02b8adfc240a1935

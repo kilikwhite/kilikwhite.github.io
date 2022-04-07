@@ -6,8 +6,8 @@ Project 2:  Basic HTML Parsing and Crawling
 -   **Class:  Data Structures CSCI 315** 
 -   **Grade:  B-** 
 -   **Language(s):  C++ & HTML** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Source Code Repository:** [features/mastering-markdown](https://github.com/kilikwhite/csci-315-fall-2021/tree/master/project2)  
+    (Please [email me](mailto:kilikwhite@outlook.com?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
