@@ -6,7 +6,7 @@ Project 1: Large Map
 -   **Class: Data Structures CSCI 315**
 -   **Grade: B-** 
 -   **Language(s): C++** 
--   **Source Code Repository:** [features/mastering-markdown](https://github.com/kilikwhite/csci-315-fall-2021/tree/master/project1)  
+-   **Source Code Repository:** [csci-315-fall-2021/tree/master/project1](https://github.com/kilikwhite/csci-315-fall-2021/tree/master/project1)  
     (Please [email me](mailto:kilikwhite@outlook.com?subject=GitHub%20Access) to request access.)
 
 ## Project description
