@@ -6,7 +6,7 @@ Sample-app
 -   **Class: User-Interface** 
 -   **Grade: TBA** 
 -   **Language(s):HTML, SCSS, Ruby** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [features/mastering-markdown](https://github.com/kilikwhite/sample_app)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
