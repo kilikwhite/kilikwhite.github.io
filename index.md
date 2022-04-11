@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 =======
 Portfolio
 =========
@@ -68,4 +67,3 @@ Presentations
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/csu-cs/csci-portfolio">CSU-CS</a></p>
 <!-- Remove above link if you don't want to attributive -->
->>>>>>> 265ce568a90c185acf0a2e6b02b8adfc240a1935
