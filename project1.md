@@ -47,6 +47,5 @@ Fig 4. Results part 2.
 
 Remember you need to be able to run C++ code to run the project so make sure a c++ compiler is on the machine.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 [Back to Portfolio](./)
