@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-=======
+# <<<<<<< HEAD
+# =======
 # Site settings
 # These are used to personalize your new site.
 title: Kilik White # your name here
@@ -19,4 +19,4 @@ google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 # Build setting
 theme: jekyll-theme-minimal
 
->>>>>>> 265ce568a90c185acf0a2e6b02b8adfc240a1935
+# >>>>>>> 265ce568a90c185acf0a2e6b02b8adfc240a1935
