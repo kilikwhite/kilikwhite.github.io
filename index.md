@@ -1,4 +1,3 @@
-=======
 Portfolio
 =========
 
@@ -25,7 +24,7 @@ Programming Projects
 ---
 ### [Sample-app | CSCI 334](project4)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 4 Thumbnail Name](images/Project_4_screenshots/Home_Screen.PNG)
 
 ---
 
