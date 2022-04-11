@@ -3,26 +3,21 @@
 Sample-app
 ===============
 
--   **Class: User-Interface** 
+-   **Class: User-Interface CSCI 334** 
 -   **Grade: TBA** 
 -   **Language(s):HTML, SCSS, Ruby** 
--   **Source Code Repository:** [features/mastering-markdown](https://github.com/kilikwhite/sample_app)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Source Code Repository:** [sample_app](https://github.com/kilikwhite/sample_app)  
+    (Please [email me](mailto:kilikwhite@outlook.com?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This is a website that was made by following the ruby on rails tutorial for the class.  This website allows the user to make an account, look at all the users of the app, and if an admin, It allows you to delete specific users.  The command line section at the bottom also tells the user what is happeneing on specific clicks. 
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
+Lucky this is already in a heroku app, here is the link.
 
-```bash
-cd ./project
-python setup.py
-```
-
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
+Link to the [Sample-app](https://morning-everglades-50575.herokuapp.com/)
 
 ## UI Design
 
