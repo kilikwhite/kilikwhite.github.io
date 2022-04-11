@@ -15,11 +15,11 @@ This project is more of a compilation of labs 1 though 6 of programming through 
 
 ## How to compile and run the program
 
-To compile the project, first go to the directory of the lab you want to compile.  Next type nasm -felf64 lab0(lab #).asm && gcc -no-pie -fPIC lab0(lab *).o && ./a.out.  If you are compileing lab01 then you need to type this: nasm -felf64 hello-printf.asm && gcc -no-pie -fPIC hello-printf.o && ./a.out.
+To compile the project, first go to the directory of the lab you want to compile.  Next type nasm -felf64 lab0(lab *).asm && gcc -no-pie -fPIC lab0(lab *).o && ./a.out.  If you are compileing lab01 then you need to type this: nasm -felf64 hello-printf.asm && gcc -no-pie -fPIC hello-printf.o && ./a.out.
 
 ```bash
 cd ./lab0(lab *)
-nasm -felf64 lab0(lab #).asm && gcc -no-pie -fPIC lab0(lab *).o && ./a.out
+nasm -felf64 lab0(lab *).asm && gcc -no-pie -fPIC lab0(lab *).o && ./a.out
 ```
 
 
@@ -29,8 +29,8 @@ Almost every program requires user interaction, even command-line programs. Incl
 
 Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+![Asm Lab01 code example](images/Project_2_screenshots/Lab_1EX.png)  
+Fig 1. Lab01 Code
 
 ![screenshot](images/dummy_thumbnail.jpg)  
 Fig 2. Example output after input is processed.
@@ -40,7 +40,7 @@ Fig 3. Feedback when an error occurs.
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+To be able to run this, it will require the machine to be able to compile Assembly code so make sure that the machine can run assembly before you can use the website. 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
