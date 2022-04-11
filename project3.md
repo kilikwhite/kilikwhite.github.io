@@ -6,42 +6,58 @@ Applied Networking Website
 -   **Class: Applied Networking CSCI 332** 
 -   **Grade: A-** 
 -   **Language(s): HTML, PHP, & CSS** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Source Code Repository:** [features/mastering-markdown](https://github.com/kilikwhite/Applied_Networking_Website)  
+    (Please [email me](mailto:kilikwhite@.outlook.com?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Tiny update ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This is a running project for Applied Networking which contains a website for the labs that is due.  A huge note on lab5 is that lab5 is where the items and awsners for the partner Activity with Brian Diez was in.  This means that lab5 is a collaberated effort, the rest I did myself.  Labs 1-5 are HTML and CSS while Lab 6 is a mixture of HTML and PHP.
+
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
+The way to run the website is a bit complex.  The best way to run the website is via apache servers on linux.
+
+First you need a Virtual Box and Ubuntu 64
+Virtual Box link:  https://www.virtualbox.org/
+Ubuntu 64 iso download link:  https://ubuntu.com/
+
+Once the linux Virtual Box is installed then go to terminal and start installing both Apache and php:
 
 ```bash
-cd ./project
-python setup.py
+sudo apt update
+sudo apt install apache2
+sudo apt-get install php libapache2-mod-php
 ```
 
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
+After both apache and php is installed then (assumeing you cloned everything from my git repository) navigate into the website folder and copy everything into /var/www/html:
+
+```bash
+cd Applied_Networking_Website/Website
+sudo cp * -R /var/www/html
+```
+
+Finally you can see the website via going on Firefox on linux and type on the searchbar: http://localhost
+
+Now you can fully access the website.
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
+Since this is a website there is alot more interaction compared to the previous projects.  The main website's layout is shown in figure 1 which is the home page.  On figure 1, pressing any of the (Lab number) links will navigate the user to the respective labs while pressing on Kilik's Website link will take the user to the home page.  As for navigating through the website clicking on the Lab 1 link will take you to the Lab 1 Index (Fig. 2).  In Lab 6 clicking the links will take you to php pages so make sure that the computer can run php.
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+![screenshot](images/Project_3_screenshots/Home.png)  
+Fig 1. Website Home Page
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
+![screenshot](images/Project_3_screenshots/Lab_1.png)  
+Fig 2. Lab 1 index page
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![screenshot](images/Project_3_screenshots/Lab_6.png)  
+Fig 3. Lab 6 index page
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+If your machine can't use virtualization, an alternate method is through VS Code but it will require having live server setup but it will not work for php. 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
