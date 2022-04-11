@@ -34,15 +34,18 @@ First it will require adding items to the main file under the src folder as show
 ![screenshot](images/Project_1_screenshots/Folder.png)  
 Fig 1. This is the contents of the Folder.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
+![screenshot](images/Project_1_screenshots/Main.png)  
+Fig 2. The main file
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![screenshot](images/Project_1_screenshots/Result_1.png)  
+Fig 3. Results part 1.
+
+![screenshot](images/Project_1_screenshots/Result_2.png)  
+Fig 4. Results part 2.
 
 ## 3. Additional Considerations
 
-Remember you need to be able to run C++ code to run the project. 
+Remember you need to be able to run C++ code to run the project so make sure a c++ compiler is on the machine.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 

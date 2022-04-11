@@ -11,20 +11,20 @@ Programming Projects
 ---
 ### [Project 1: Large Map | CSCI 315](project1)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Directory Contests](images/Project_1_screenshots/Folder.png)
 
 ---
-### [Project 2: Basic HTML Parsing and Crawling | CSCI 315](project2)
+### [Assembly Lab 1-Lab 6 Compilation | CSCI 330](project2)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![ASM Code](images/Project_2_screenshots/Lab_1EX.png)
 
 ---
 ### [Applied Networking Website| CSCI 332](project3)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Website Homepage](images/Project_3_screenshots/Home.png)
 
 ---
-### [Project 4 Title | CSCI 332](project1)
+### [Sample-app | CSCI 334](project4)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 

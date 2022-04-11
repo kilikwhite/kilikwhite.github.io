@@ -1,28 +1,27 @@
 [Back to Portfolio](./)
 
-Project 2:  Basic HTML Parsing and Crawling
+Assembly Lab 1 - Lab 6
 ===============
 
--   **Class:  Data Structures CSCI 315** 
--   **Grade:  B-** 
--   **Language(s):  C++ & HTML** 
--   **Source Code Repository:** [features/mastering-markdown](https://github.com/kilikwhite/csci-315-fall-2021/tree/master/project2)  
+-   **Class:  Computer Archetecture CSCI 330** 
+-   **Grade:  TBA** 
+-   **Language(s):  Assembly** 
+-   **Source Code Repository:** [features/mastering-markdown](https://github.com/kilikwhite/csci-330-spring-2022)  
     (Please [email me](mailto:kilikwhite@outlook.com?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This project is more of a compilation of labs 1 though 6 of programming through assembly.  In lab 1, it was an introduction to assembly code.  Labs 2 and 3 worked on summing the values in an array.  And labs 4, 5, and 6 are about making functions via assembly that mirror C.
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
+To compile the project, first go to the directory of the lab you want to compile.  Next type nasm -felf64 lab0(lab #).asm && gcc -no-pie -fPIC lab0(lab *).o && ./a.out.  If you are compileing lab01 then you need to type this: nasm -felf64 hello-printf.asm && gcc -no-pie -fPIC hello-printf.o && ./a.out.
 
 ```bash
-cd ./project
-python setup.py
+cd ./lab0(lab *)
+nasm -felf64 lab0(lab #).asm && gcc -no-pie -fPIC lab0(lab *).o && ./a.out
 ```
 
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
 
 ## UI Design
 
