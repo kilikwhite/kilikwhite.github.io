@@ -1,11 +1,6 @@
 Portfolio
 =========
-Reflection Questions
---------------------
 
-### [My College Reflection Questions](Reflection)
-
----
 Programming Projects
 --------------------
 
@@ -66,6 +61,13 @@ Presentations
 
 - **Class: Cyber Defense CSCI 352** 
 - **Grade: TBA**
+
+---
+
+Reflection Questions
+--------------------
+
+### [My College Reflection Questions](Reflection)
 
 ---
 
