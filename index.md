@@ -41,11 +41,6 @@ Ethics Papers
 -   **Class: Systems Analysis & Software Design CSCI 495-40** 
 -   **Grade: A**
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
-
--   **Class:** 
--   **Grade:**
-
 ---
 
 Presentations
