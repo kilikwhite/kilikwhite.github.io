@@ -6,7 +6,7 @@ Applied Networking Website
 -   **Class: Applied Networking CSCI 332** 
 -   **Grade: A-** 
 -   **Language(s): HTML, PHP, & CSS** 
--   **Source Code Repository:** [features/mastering-markdown](https://github.com/kilikwhite/Applied_Networking_Website)  
+-   **Source Code Repository:** [Applied_Networking_Website](https://github.com/kilikwhite/Applied_Networking_Website)  
     (Please [email me](mailto:kilikwhite@.outlook.com?subject=GitHub%20Access) to request access.)
 
 ## Project description
@@ -19,8 +19,8 @@ This is a running project for Applied Networking which contains a website for th
 The way to run the website is a bit complex.  The best way to run the website is via apache servers on linux.
 
 First you need a Virtual Box and Ubuntu 64
-Virtual Box link:  https://www.virtualbox.org/
-Ubuntu 64 iso download link:  https://ubuntu.com/
+-  Virtual Box link:  https://www.virtualbox.org/
+-  Ubuntu 64 iso download link:  https://ubuntu.com/
 
 Once the linux Virtual Box is installed then go to terminal and start installing both Apache and php:
 
@@ -59,6 +59,5 @@ Fig 3. Lab 6 index page
 
 If your machine can't use virtualization, an alternate method is through VS Code but it will require having live server setup but it will not work for php. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 [Back to Portfolio](./)
