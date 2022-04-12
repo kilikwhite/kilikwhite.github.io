@@ -31,7 +31,7 @@ The program mainly is shown through a command line.  If the user wants to edit t
 ![Asm Lab01 code example](images/Project_2_screenshots/Lab_1EX.png)  
 Fig 1. Lab01 Code
 
-![screenshot](images/Project_2_screenshots/Output1_C.png)  
+![screenshot](images/Project_2_screenshots/Output1_CT.png)  
 Fig 2. Example output after input is processed.
 
 ## 3. Additional Considerations
