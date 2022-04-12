@@ -1,4 +1,4 @@
-# Reflection Questions From: **Kilik White** Date: **February 14, 2022**
+# Reflection Questions From: **Kilik White** 
 
 ## Discuss one challenge you overcame during your academic development. What was the challenge, was it technical, nontechnical, or both, and how did you overcome it?
 The challenge that I have overcome during my academic development was Data Structures at Charleston Southern University.  That class was a challenge since I failed 
